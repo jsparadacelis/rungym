@@ -3,6 +3,9 @@
 1. Create a new python virtual env ``` python .-m venv .venv```.
 2. install requirements ``` pip install -r requirements```.
 
+## Customizations
+
+You can see the changes that I did based on lunar lander env within the gym submodule in ```/gym/gym/envs/box2d/anti_lunar_lander.py```
 ## Lunar Lander Gym
 
 To run the lunar lander env solved with the DQN algorithm: 
